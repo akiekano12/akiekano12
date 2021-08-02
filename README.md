@@ -1,7 +1,7 @@
 ### About me
 Not a developer and of course without work experience, but with a great desire to learn.
 
-Don't forget to![4c16221bd6acb57eb0712d3ee6539fb8](https://user-images.githubusercontent.com/88305133/127818563-1c0a6231-37c4-437f-8866-67ad0c41ca7c.png)
+![4c16221bd6acb57eb0712d3ee6539fb8](https://user-images.githubusercontent.com/88305133/127818563-1c0a6231-37c4-437f-8866-67ad0c41ca7c.png)
 
 
 
