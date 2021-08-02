@@ -10,9 +10,11 @@ Don't forget to visit my Github Pages.
 [![CSS](https://img.shields.io/badge/CSS-FF00FF?style=for-the-badge)](http://www.css3.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-FF00FF?style=for-the-badge)](http://www.ecmascript.org/)
 [![C](https://img.shields.io/badge/C-FF00FF?style=for-the-badge)](#)
-
-### Tools
 [![Linux](https://img.shields.io/badge/Linux-FF00FF?style=for-the-badge)](https://manjarolinux.org/) 
 [![Bash](https://img.shields.io/badge/Bash-FF00FF?style=for-the-badge)](https://www.gnu.org/software/bash/)
+
+### Tools
+
+
 [![Git](https://img.shields.io/badge/Git-FF00FF?style=for-the-badge)](https://git-scm.com/)
 [![Geany](https://img.shields.io/badge/Geany-FF00FF?style=for-the-badge)](https://geany.org/)
