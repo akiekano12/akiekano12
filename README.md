@@ -11,6 +11,4 @@ Not a developer and of course without work experience, but with a great desire t
 
 
 
-
-
 [![C](https://img.shields.io/badge/C-FF00FF?style=for-the-badge)](#)
