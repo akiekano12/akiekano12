@@ -6,7 +6,7 @@ Not a developer and of course without work experience, but with a great desire t
 
 
 
-### Languages     
+### Languages     									Tools
 [![HTML](https://img.shields.io/badge/HTML-FF00FF?style=for-the-badge)](https://html.com/)
 [![CSS](https://img.shields.io/badge/CSS-FF00FF?style=for-the-badge)](http://www.css3.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-FF00FF?style=for-the-badge)](http://www.ecmascript.org/)
