@@ -19,7 +19,7 @@ Hello my name is akiekano, currently I am studying at one of the universities in
 ### Find me on
 [![Instagram](https://img.shields.io/badge/Instagram-fb929e?style=for-the-badge)](https://instagram.com/akiekano)
 [![Twitter](https://img.shields.io/badge/Twitter-00a8cc?style=for-the-badge)](https://twitter.com/im_fernanda)
-[![Facebook](https://img.shields.io/badge/Facebook-f9f7f7?style=for-the-badge)](https://facebook.com/naiterutoki)
+[![Facebook](https://img.shields.io/badge/Facebook-444f5a?style=for-the-badge)](https://facebook.com/naiterutoki)
 
 ### Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-0dceda?style=for-the-badge)](https://t.me/akiekano)
