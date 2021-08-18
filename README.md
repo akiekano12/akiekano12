@@ -1,6 +1,6 @@
 ### About me
 
-Hello my name is akiekano, currently I am studying at one of the universities in Indonesia, I am here just trying to be creative with my friends, 私は線が好きで、色が好きで、パズルが好きです。アートとは何でも好きです！ 。 。 。
+Hello my name is akiekano, currently I am studying at one of the university in Indonesia, I am here just trying to be creative with my friends, 私 は 線 が 好 き で、色が好きで、パズルが好きです。アートとは何でも好きです！ 。 。 。
 
 [![Blog](https://img.shields.io/badge/Akiekano.github.io-364f6b?style=for-the-badge)](https://akiekano.github.io/)
 
