@@ -11,10 +11,10 @@ Hello my name is akiekano, currently I am studying at one of the university in I
 [![C++](https://img.shields.io/badge/C++-FF00FF?style=for-the-badge)](#)
 [![C](https://img.shields.io/badge/C-FF00FF?style=for-the-badge)](#)
 
-### Frameworks
+<!-- ### Frameworks
 [![Flutter](https://img.shields.io/badge/Flutter-ffd460?style=for-the-badge)](https://manjarolinux.org/)
 [![Django](https://img.shields.io/badge/Django-444f5a?style=for-the-badge)](https://www.gnu.org/software/bash/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-e84545?style=for-the-badge)](https://git-scm.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-e84545?style=for-the-badge)](https://git-scm.com/) -->
 
 ### Find me on
 [![Instagram](https://img.shields.io/badge/Instagram-fb929e?style=for-the-badge)](https://instagram.com/akiekano)
