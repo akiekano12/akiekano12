@@ -3,7 +3,8 @@
 <p align="left"><strong><samp>「</samp></strong></p><p align="center">
     <samp>
       <b>PGP Keys</b><br>
-      -----BEGIN PGP PUBLIC KEY BLOCK-----
+      
+        -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQENBGGW5pMBCACq5mKlJO1Qo4Ki4V1AlMShU3A16WdErtgF0PmZbY1WIUONXhUJ
 UXa+iOMQjAG7qAueTy3mtJbauUqemfjj4DObaHiC+r5/eiaqq4vZWT9axp9TqvCo
@@ -33,4 +34,5 @@ IqOQaCes3qADZDTeXfmflO5TO6OWtnNlGnVuiBeo6Q1KX9eGvrjdIaavFTzrnRf1
 Xer5Slwdx19vBf/OXBKBFyQVhEq2/PdBj+NZAWeuQYtuSwWkOafa
 =2GT8
 -----END PGP PUBLIC KEY BLOCK-----
-</p><p align="right"><strong><samp>」</samp></strong></p>
+        
+<br></p><p align="right"><strong><samp>」</samp></strong></p>
