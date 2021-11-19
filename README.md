@@ -33,7 +33,4 @@ IqOQaCes3qADZDTeXfmflO5TO6OWtnNlGnVuiBeo6Q1KX9eGvrjdIaavFTzrnRf1
 Xer5Slwdx19vBf/OXBKBFyQVhEq2/PdBj+NZAWeuQYtuSwWkOafa
 =2GT8
 -----END PGP PUBLIC KEY BLOCK-----
-
-    </samp>
-    <br>
 </p><p align="right"><strong><samp>」</samp></strong></p>
