@@ -2,7 +2,7 @@
 
 <!-- # Import My Public Keys -->
 ```
-$ curl -s https://github.com/akiekano.gpg | gpg --import
+$ curl -s https://github.com/fernandafmr2.gpg | gpg --import
 ```
 
 [![Codewars](https://www.codewars.com/users/Akiekano/badges/small)](https://www.codewars.com/users/Akiekano)
