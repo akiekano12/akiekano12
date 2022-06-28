@@ -5,4 +5,4 @@
 $ curl -s https://github.com/fernandafmr2.gpg | gpg --import
 ```
 
-[![Codewars](https://www.codewars.com/users/Akiekano/badges/small)](https://www.codewars.com/users/Akiekano)
+[![Codewars](https://www.codewars.com/users/fernandafmr2/badges/small)](https://www.codewars.com/users/Akiekano)
