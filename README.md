@@ -1,10 +1,11 @@
-<!-- ![Metrics](https://metrics.lecoq.io/Akiekano?template=classic&isocalendar=1&languages=1&introduction=1&people=1&gists=1&activity=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FJakarta) -->
-
 <!-- # Import My Public Keys -->
 ```
 $ curl -s https://github.com/fernandafmr2.gpg | gpg --import
 ```
-
 [![Codewars](https://www.codewars.com/users/fernandafmr2/badges/small)](https://www.codewars.com/users/Akiekano)
 
+
 それで、それはすべて実現しますか？
+
+![2023-03-08_11_15_02](https://user-images.githubusercontent.com/88305133/223618096-e3766e1e-ed9f-4e29-8dd4-fb627370bbeb.png)
+
