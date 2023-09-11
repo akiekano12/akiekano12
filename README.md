@@ -1,1 +1,1 @@
-![2023-08-15_15_21_38](https://github.com/akiekano12/akiekano12/assets/88305133/d83c72b3-0633-4009-9dd5-ee5ca5a029f4)
+![2023-09-12_02_24_31](https://github.com/akiekano12/akiekano12/assets/88305133/97b0caa1-afb2-44b6-b47c-3d7cf2ed757f)
